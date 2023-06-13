@@ -1,3 +1,10 @@
+13-is_palindrome.c
+
+/*
+ * File: 13-is_palindrome.c
+ * Auth: Mbah Nkemdinma
+ */
+
 #include "lists.h"
 
 listint_t *reverse_listint(listint_t **head);
